@@ -1,7 +1,6 @@
 <meta charset="UTF-8">
 <script src="../vast15s/embed/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="../vast15s/embed/jwplayer885k.js"></script>
-<script type="text/javascript">jwplayer.key="MBvrieqNdmVL4jV0x6LPJ0wKB/Nbz2Qq/lqm3g==";</script>
+<script src='../vast15s/aVr2lJgW.js'></script>
 <div id="adsmessage" class="adsmessage" style="display:none;"></div>
 <div id="playerjw7"></div>
 <script type="text/javascript">

@@ -5,7 +5,7 @@
       var player = jwplayer('player');
 player.setup({
     width: '100%',
-    image: 'https://i.imgur.com/bAH1vXY.jpg',
+    image: 'https://firebasestorage.googleapis.com/v0/b/local-8563f.appspot.com/o/Phimmedia.org.png?alt=media&token=657abc08-fe5f-46aa-8988-322fd122e6dd',
     skin: {
         'name': 'seven'
     },

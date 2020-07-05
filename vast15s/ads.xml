@@ -11,10 +11,10 @@
             <TrackingEvents>
             </TrackingEvents>
             <VideoClicks>
-              <ClickThrough id="scanscout"><![CDATA[http://www.sbbanner.com/newmedia/index.html?vendorid=11914&vendortype=2&lang=VI]]></ClickThrough>
+              <ClickThrough id="scanscout"><![CDATA[http://google.com]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
-                <MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive"><![CDATA[https://content.jwplatform.com/videos/Wf8BfcSt-kNspJqnJ.mp4]]></MediaFile>
+                <MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive"><![CDATA[https://dl.dropboxusercontent.com/s/ca6jdno75el6flp/lien%20he%20quang%20cao.mp4?dl=1]]></MediaFile>
             </MediaFiles>
           </Linear>
 	</Creative>

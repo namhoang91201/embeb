@@ -4,8 +4,7 @@
 <div class="fuckyou"></div>
 <style type="text/css">
         html{width:100%;height:95%;}
-        *{margin:0;padding:0;font-weight:normal;box-sizing: border-box;}
-        body{background:#08212f;color:#777;font-size:16px;font-family: arial;display: block;width:100%;height:100%;overflow:hidden;}
+        
         
         .fuckyou{
             position:fixed;

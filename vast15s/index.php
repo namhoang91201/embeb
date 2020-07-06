@@ -11,12 +11,13 @@
             position:fixed;
             right:11px;
             top:11px;
-            width:352px;
-            height:88px;
+            width:120px;
+            height:30px;
             z-index:999;
-           	background-image: url('https://1.bp.blogspot.com/-E76Ay-aSmmo/XaRpTTbN_AI/AAAAAAAADEo/0elnnT6VqHEbdGKhDiar47funCbb5mO7QCK4BGAYYCw/s1600/PHIMMEDIA.png');
-            background-repeat: no-repeat;
-            background-position: center;
+            background:#222;
+			text-align: center;
+			color: white;
+			border: 3px solid green;
            
         }
     </style>

@@ -1,25 +1,7 @@
 <meta charset="UTF-8">
     <script src='../vast15s/aVr2lJgW.js'></script>
     <div id='player'></div>
-<div class="fuckyou">DaLatPlay</div>
-<style type="text/css">
-        html{width:100%;height:95%;}
-        
-        
-        .fuckyou{
-            position:fixed;
-            right:11px;
-            top:11px;
-            width:120px;
-            height:30px;
-            z-index:999;
-            background:#222;
-			text-align: center;
-			color: white;
-			border: 3px solid green;
-           
-        }
-    </style>
+
        <script>
       var player = jwplayer('player');
 player.setup({

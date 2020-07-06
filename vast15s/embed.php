@@ -9,16 +9,16 @@
         
         
         .fuckyou{
-            position:fixed;
+             position:fixed;
             right:11px;
             top:11px;
-            width:80px;
-            height:20px;
+            width:120px;
+            height:30px;
             z-index:999;
             background:#222;
-		text-align:center;
-            background-repeat: no-repeat;
-            background-position: center;
+			text-align: center;
+			color: white;
+			border: 3px solid green;
            
         }
     </style>

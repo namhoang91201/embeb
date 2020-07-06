@@ -3,7 +3,7 @@
 <script src='../vast15s/aVr2lJgW.js'></script>
 <div id="adsmessage" class="adsmessage" style="display:none;"></div>
 <div id="playerjw7"></div>
-<div class="fuckyou"></div>
+<div class="fuckyou">DaLatPlay</div>
 <style type="text/css">
         html{width:100%;height:95%;}
         

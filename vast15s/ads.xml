@@ -27,7 +27,7 @@
               <ClickThrough id="scanscout"><![CDATA[http://google.com]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
-                <MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive"><![CDATA[http://embedapi.herokuapp.com/mediafireapi.php?id=http://embedapi.herokuapp.com/lien%20he%20quang%20cao.mp4]]></MediaFile>
+                <MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive"><![CDATA[http://download1475.mediafire.com/91jow3y9wtag/75g5mprkrk42b9c/lien+he+quang+cao.mp4http://embedapi.herokuapp.com/mediafireapi.php?id=http://embedapi.herokuapp.com/lien%20he%20quang%20cao.mp4]]></MediaFile>
             </MediaFiles>
           </Linear>
 	</Creative>      

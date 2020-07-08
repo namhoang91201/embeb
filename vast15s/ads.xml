@@ -14,7 +14,7 @@
               <ClickThrough id="scanscout"><![CDATA[http://google.com]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
-                <MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive"><![CDATA[http://download1475.mediafire.com/embsqpzidhbg/75g5mprkrk42b9c/lien+he+quang+cao.mp4]]></MediaFile>
+                <MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive"><![CDATA[https://dl.dropboxusercontent.com/s/ca6jdno75el6flp/lien%20he%20quang%20cao.mp4?dl=1]]></MediaFile>
             </MediaFiles>
           </Linear>
 	</Creative>

@@ -1,5 +1,5 @@
 <meta charset="UTF-8">
-    <script src='../vast15s/aVr2lJgW.js'></script>
+    <script src='../vast15s/vast.js'></script>
     <div id='player'></div>
 
        <script>

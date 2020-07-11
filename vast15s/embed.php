@@ -25,7 +25,7 @@ console.log(arrPreroll);
 	var advertising = {
 		client:"vast",
 		admessage: 'Quảng cáo còn XX giây.',
-		skipoffset: 15,
+		skipoffset: 10,
 		skiptext : 'Bỏ qua quảng cáo',
 		skipmessage : 'Bỏ qua sau xxs',
 		width: '100%',

@@ -29,7 +29,7 @@ player.setup({
         schedule: {
             'qc1': {
                 'offset': 'pre',
-                'skipoffset': '15',
+                'skipoffset': '10',
                 'tag': '../vast15s/ads.xml'
             },
             'qc2': {

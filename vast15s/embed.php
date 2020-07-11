@@ -40,7 +40,7 @@ console.log(arrPreroll);
 	
 	var playerInstance = jwplayer('playerjw7');
 	function setupVideo(){		
-		var firstSource = [{file: 'https://embedapi.herokuapp.com/vast15s/embed/1s_blank.mp4',type:'mp4',label: '360p',default: true}];	
+		var firstSource = [{file: 'https://firebasestorage.googleapis.com/v0/b/phimmedia-ff307.appspot.com/o/dalat-play%2F1s_blank.mp4?alt=media&token=6010b988-b623-4af8-a1cb-0f8a33425e96',type:'mp4',label: '360p',default: true}];	
 		
 		if (playAds<maxAds) {
 		console.log(maxAds);

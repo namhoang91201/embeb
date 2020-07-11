@@ -21,7 +21,7 @@ var jwDefaults = {
   "height": 260,
   "key": "0qNVovU7EEkdoUhgmvafl7g81u3Kz3X7uvNfpRtNox9/PvvGK8IjicpcpmX4dUlz",
   "logo": {
-    "file": "https://assets-jpcust.jwpsrv.com/watermarks/RUjIlP0s.png",
+    "file": "https://firebasestorage.googleapis.com/v0/b/phimmedia-ff307.appspot.com/o/dalat-play%2Fdalayplay.xyz.png?alt=media&token=c1adf86d-02e4-4416-8998-f39cd8668861",
     "hide": false,
     "margin": "10",
     "position": "top-right"

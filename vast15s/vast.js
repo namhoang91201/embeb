@@ -19,7 +19,7 @@ var jwDefaults = {
   "displaytitle": true,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.16.3/jwplayer.flash.swf",
   "height": 260,
-  "key": "atfKnLlBs9GGEp8jd1833YZyW1k83qkkGN8joKtHWubu6CLlTXTiBg=",
+  "key": "9IYlRxNh7A3MrGX4EWWY7yPuRpTzDkJa3lTcDhAWeKgHcyrBCnc2TQ==",
   "mute": false,
   "ph": 1,
   "pid": "aVr2lJgW",

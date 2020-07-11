@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <script src="../vast15s/embed/jquery.min.js" type="text/javascript"></script>
-<script src='../vast15s/vast.js'></script>
+<script src='../vast15s/player8.js'></script>
 
 <div id="adsmessage" class="adsmessage" style="display:none;"></div>
 <div id="playerjw7"></div>

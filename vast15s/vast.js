@@ -19,7 +19,7 @@ var jwDefaults = {
   "displaytitle": true,
   "flashplayer": "//embedapi.herokuapp.com/vast15s/jwplayer.flash.swf",
   "height": 260,
-  "key": "65lARISzgi29V0FNQLLpeLpFrVo5AJFHVGE3wFoWnMX5uOQJXHjwXQ==",
+  "key": "MZi8Lg9/izpeeXhh3idRmKP39SQ1hdMnp+nn2qUdysbGSu+Vd45HEQ==",
   "mute": false,
   "ph": 1,
   "pid": "aVr2lJgW",

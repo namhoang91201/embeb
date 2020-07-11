@@ -41,7 +41,7 @@ console.log(arrPreroll);
 	
 	var playerInstance = jwplayer('playerjw7');
 	function setupVideo(){		
-		var firstSource = [{file: 'https://firebasestorage.googleapis.com/v0/b/phimmedia-ff307.appspot.com/o/dalat-play%2F1s_blank.mp4?alt=media&token=6010b988-b623-4af8-a1cb-0f8a33425e96',type:'mp4',label: '360p',default: true}];	
+		var firstSource = [{file: 'https://firebasestorage.googleapis.com/v0/b/phimmedia-ff307.appspot.com/o/dalat-play%2Fdalatplay-xyz.mp4?alt=media&token=8cf6c9ad-bcfc-4a40-955c-1806442d49e6',type:'mp4',label: '360p',default: true}];	
 		
 		if (playAds<maxAds) {
 		console.log(maxAds);
@@ -49,7 +49,7 @@ console.log(arrPreroll);
 			//$("#adsmessage").html("Quảng cáo").show();
 			playerInstance.setup({				
 				sources: firstSource,
-				image: 'https://firebasestorage.googleapis.com/v0/b/local-8563f.appspot.com/o/Phimmedia.org.png?alt=media&token=657abc08-fe5f-46aa-8988-322fd122e6dd',
+				image: '',
 				tracks: tracks,
 				captions: {
 					color: '#FFCC00',

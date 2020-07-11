@@ -49,7 +49,7 @@ console.log(arrPreroll);
 			//$("#adsmessage").html("Quảng cáo").show();
 			playerInstance.setup({				
 				sources: firstSource,
-				image: '',
+				image: 'https://firebasestorage.googleapis.com/v0/b/phimmedia-ff307.appspot.com/o/dalat-play%2Fintro-dalatplay.xyz.png?alt=media&token=141eee00-77ed-4440-b73d-23fede2c945a',
 				tracks: tracks,
 				captions: {
 					color: '#FFCC00',

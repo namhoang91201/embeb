@@ -17,7 +17,7 @@ var jwDefaults = {
   "controls": true,
   "displaydescription": true,
   "displaytitle": true,
-  "flashplayer": "//embedapi.herokuapp.com/vast15s/jwplayer.flash.swf",
+  "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.16.3/jwplayer.flash.swf",
   "height": 260,
   "key": "//XqBhzaxwI8lFaXc2tYGS5zMWv6R9ZyG8WtkMogVSCs0/2+QHUKDQ==",
   "mute": false,

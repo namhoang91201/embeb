@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <script src="../vast15s/embed/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://tvhay.org/playergk/jwplayer885/jwplayer885k.js"></script>
-<script>jwplayer.key="zTEbSn/eAplL0RLXT030FzOcek6qXmtrxju6Jg=="</script>
+<script>jwplayer.key="MBvrieqNdmVL4jV0x6LPJ0wKB/Nbz2Qq/lqm3g=="</script>
 <div id="adsmessage" class="adsmessage" style="display:none;"></div>
 <div id="playerjw7"></div>
 

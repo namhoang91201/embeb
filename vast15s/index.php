@@ -1,3 +1,8 @@
+<?php 	if (stristr($_SERVER['HTTP_REFERER'],"dalatplay.xyz") || stristr($_SERVER['HTTP_REFERER'],"dalatplay.blogspot.com")||
+stristr($_SERVER['HTTP_REFERER']," ")||
+ stristr($_SERVER['HTTP_REFERER'],"embedapi.herokuapp.com/vast15s")|| stristr($_SERVER['HTTP_REFERER']," ")) { ;?>
+
+
 <meta charset="UTF-8">
     <script src='../vast15s/player8.js'></script>
     <div id='player'></div>
@@ -108,5 +113,8 @@ document.onclick=reEnable
 }
 </style>
 
-
+<?php
+}
+else echo 'Opps sorry!  For more info contact us ';
+?>
 

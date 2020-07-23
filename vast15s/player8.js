@@ -18,7 +18,7 @@ var jwDefaults = {
   "displaydescription": false,
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.16.3/jwplayer.flash.swf",
-  "height": 260,
+  "height": 360,
   "key": "0qNVovU7EEkdoUhgmvafl7g81u3Kz3X7uvNfpRtNox9/PvvGK8IjicpcpmX4dUlz",
   "logo": {
     "file": "https://firebasestorage.googleapis.com/v0/b/phimmedia-ff307.appspot.com/o/dalat-play%2Fdalayplay.xyz.png?alt=media&token=c1adf86d-02e4-4416-8998-f39cd8668861",

@@ -111,6 +111,10 @@ document.onclick=reEnable
     font-weight: bold;
     margin: 0 auto;
 }
+	.jwlogo {
+     margin: -35000px;
+     display:none;
+}
 </style>
 
 <?php

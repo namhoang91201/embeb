@@ -111,10 +111,10 @@ document.onclick=reEnable
     font-weight: bold;
     margin: 0 auto;
 }
-	.jwlogo {
-     margin: -35000px;
-     display:none;
-}
+	.jw-flag-fullscreen .jw-logo {
+      width: 150px !important;
+      height: 150px !important;
+    }
 </style>
 
 <?php

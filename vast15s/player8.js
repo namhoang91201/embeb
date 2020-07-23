@@ -23,7 +23,7 @@ var jwDefaults = {
   "logo": {
     "file": "https://firebasestorage.googleapis.com/v0/b/phimmedia-ff307.appspot.com/o/dalat-play%2Fdalayplay.xyz.png?alt=media&token=c1adf86d-02e4-4416-8998-f39cd8668861",
     "hide": false,
-    "margin": "220",
+    "margin": "20",
     "position": "top-right"
   },
   "mute": false,
